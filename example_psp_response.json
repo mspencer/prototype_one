@@ -1,0 +1,16 @@
+{
+  "id": "txn_123",
+  "amount": 5000,
+  "currency": "usd",
+  "status": "succeeded",
+  "decline_code": null,
+  "risk_level": "normal",
+  "risk_score": 0.2,
+  "payment_method": "card",
+  "created": 1697059200,
+  "customer_id": "cust_456",
+  "merchant_id": "merch_789",
+  "ip_address": "192.168.1.1",
+  "device_id": "dev_101",
+  "authentication_method": "3ds"
+}
